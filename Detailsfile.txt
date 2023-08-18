@@ -1,0 +1,1 @@
+('Jughead Jones', '8/July/2004', 'British', 'REIS', 'IT', 1400, 2400, 'female', 97.0, 3)
